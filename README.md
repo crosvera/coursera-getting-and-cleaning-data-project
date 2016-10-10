@@ -1,11 +1,10 @@
 # Getting and Cleaning Data Project
 By Carlos Ríos
-----
 
 ## What you find here
 
 - `run_analysis.R`: An R script to extract and summarize the *Human Activity Recognition Using Smartphones Data Set*
-- `tidy.txt`: The summarized data as a tidy data file
+- `tidyData.txt`: The summarized data as a tidy data file
 - `codebook.md`: Code Book
 - `README.md`: This file
 

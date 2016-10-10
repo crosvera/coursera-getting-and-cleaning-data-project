@@ -1,6 +1,5 @@
 # Code Book
 By Carlos Ríos
----
 
 ## Identifiers
 - subjectId: The ID from the correspond test subject
