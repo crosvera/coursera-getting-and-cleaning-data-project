@@ -18,6 +18,6 @@ By Carlos Ríos
 2- Unzip it
 
 3- Run the R script:
-   R -f run_analysis.R
+   `R -f run_analysis.R`
 
 4- Profit!
